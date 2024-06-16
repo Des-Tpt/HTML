@@ -1,0 +1,8 @@
+body
+{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display: flex;
+    background-color: aliceblue;
+    height: 100vh; /* Đảm bảo toàn bộ chiều cao */
+    margin: 0;
+}
